@@ -1,0 +1,2 @@
+# priwesilah.js
+priwesilah
